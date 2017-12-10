@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "557990676135",
+    "firebase_url": "https://facerecognitionapp-8a660.firebaseio.com",
+    "project_id": "facerecognitionapp-8a660",
+    "storage_bucket": "facerecognitionapp-8a660.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557990676135:android:e6210b86a9e46094",
+        "android_client_info": {
+          "package_name": "com.example.tushar.facerecognitionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557990676135-354t2r8309au8298d9sv5fo13q5t7k9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDamHxjkcvGCeVf8lZHH1FYUdf2G5E8ASE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
