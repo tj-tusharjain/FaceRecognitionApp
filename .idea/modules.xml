@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FaceRecognitionApp.iml" filepath="$PROJECT_DIR$/FaceRecognitionApp.iml" />
+      <module fileurl="file://C:\Users\tkhok\AndroidStudioProjects\FaceRecognitionApp\FaceRecognitionApp.iml" filepath="C:\Users\tkhok\AndroidStudioProjects\FaceRecognitionApp\FaceRecognitionApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\tkhok\AndroidStudioProjects\FaceRecognitionApp\app\app.iml" filepath="C:\Users\tkhok\AndroidStudioProjects\FaceRecognitionApp\app\app.iml" />
     </modules>
   </component>
 </project>
